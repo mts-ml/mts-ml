@@ -12,7 +12,7 @@ alt="Visual Studio Code"
 title="Visual Studio Code"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-style="padding-right:12px;"
+style="padding-right:12px; :15px;"
 />
 
 <img
@@ -21,7 +21,8 @@ alt="HTML5"
 title="HTML5"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-style="padding-right:12px;"
+style="padding-right:12px;
+padding-block:15px;"
 />
 
 <img
@@ -30,7 +31,8 @@ alt="CSS3"
 title="CSS3"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-style="padding-right:12px;"
+style="padding-right:12px;
+padding-block:15px;"
 />
 
 <img
@@ -39,7 +41,8 @@ alt="JavaScript"
 title="JavaScript"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-style="padding-right:12px;"
+style="padding-right:12px;
+padding-block:15px;"
 />
 
 <img
@@ -48,7 +51,8 @@ alt="TypeScript"
 title="TypeScript"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-style="padding-right:12px;"
+style="padding-right:12px;
+padding-block:15px;"
 />
 
 <img
@@ -57,9 +61,9 @@ alt="React"
 title="React"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-style="padding-right:12px;" 
+style="padding-right:12px;
+padding-block:15px;" 
 />
-
 
 <img
 align="left"
@@ -67,9 +71,9 @@ alt="Python"
 title="Python"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-style="padding-right:12px;" 
+style="padding-right:12px;
+padding-block:15px;" 
 />
-          
 
 <img
 align="left"
@@ -77,7 +81,8 @@ alt="Sass"
 title="Sass"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-style="padding-right:12px;"
+style="padding-right:12px;
+padding-block:15px;"
 />
 
 <img
@@ -87,13 +92,15 @@ title="Git"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 style="padding-right:12px;
-margin-block-start:15px;"
+padding-block:15px;"
 />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mts-ml&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      style="margin-block-start:30px"
-  />
+<br><br><br>
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mts-ml&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+style="margin-block-start:30px;
+padding-block:15px;"
+/>
