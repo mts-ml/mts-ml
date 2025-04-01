@@ -87,6 +87,16 @@ padding-block:15px;"
 
 <img
 align="left"
+alt="Tailwind"
+title="Sass"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+style="padding-right:12px;
+padding-block:15px;"
+/>
+
+<img
+align="left"
 alt="Git"
 title="Git"
 width="30px"
