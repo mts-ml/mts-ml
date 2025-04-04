@@ -8,31 +8,12 @@ Olá, me chamo **[Mateus Moreira Lima](https://www.linkedin.com/in/mateus-lima-0
 
 <img
 align="left"
-alt="Visual Studio Code"
-title="Visual Studio Code"
+alt="React"
+title="React"
 width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-style="padding-right:12px; :15px;"
-/>
-
-<img
-align="left"
-alt="HTML5"
-title="HTML5"
-width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 style="padding-right:12px;
-padding-block:15px;"
-/>
-
-<img
-align="left"
-alt="CSS3"
-title="CSS3"
-width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-style="padding-right:12px;
-padding-block:15px;"
+padding-block:15px;" 
 />
 
 <img
@@ -57,22 +38,12 @@ padding-block:15px;"
 
 <img
 align="left"
-alt="React"
-title="React"
+alt="Tailwind"
+title="Tailwind"
 width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 style="padding-right:12px;
-padding-block:15px;" 
-/>
-
-<img
-align="left"
-alt="Python"
-title="Python"
-width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-style="padding-right:12px;
-padding-block:15px;" 
+padding-block:15px;"
 />
 
 <img
@@ -87,22 +58,42 @@ padding-block:15px;"
 
 <img
 align="left"
-alt="Tailwind"
-title="Sass"
-width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-style="padding-right:12px;
-padding-block:15px;"
-/>
-
-<img
-align="left"
 alt="Git"
 title="Git"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 style="padding-right:12px;
 padding-block:15px;"
+/>
+
+<img
+align="left"
+alt="HTML5"
+title="HTML5"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+style="padding-right:12px;
+padding-block:15px;"
+/>
+
+<img
+align="left"
+alt="CSS3"
+title="CSS3"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+style="padding-right:12px;
+padding-block:15px;"
+/>
+
+<img
+align="left"
+alt="Python"
+title="Python"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+style="padding-right:12px;
+padding-block:15px;" 
 />
 
 <br><br><br>
