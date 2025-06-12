@@ -2,7 +2,7 @@
 
 **` 💻 Front-end Developer 💻`**
 
-Olá, me chamo **[Mateus Moreira Lima](https://www.linkedin.com/in/mateus-lima-036790184/)**, sou formado em _Análise e Desenvolvimento de Sistemas (ADS)_, fascinado por aprender e explorar o universo do desenvolvimento **Front-End**. Sempre busco aprimorar minhas habilidades e aprofundar meus conhecimentos em **UX/UI**, criando interfaces acessíveis, dinâmicas e responsivas.
+Olá, me chamo **[Mateus Moreira Lima](https://www.linkedin.com/in/mateus-lima-036790184/)**, sou formado em _Análise e Desenvolvimento de Sistemas (ADS)_, ao longo do último ano, venho estudando, construindo projetos e me aprofundando nas tecnologias do ecossistema JavaScript com ênfase em Front-End e Back-End com Node.js.
 
 ### Linguagens e ferramentas:
 
