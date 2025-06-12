@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Mateus Moreira Lima
 
-**` 💻 Front-end Developer 💻`**
+**` 💻 Software Engineer 💻`**
 
 Olá, me chamo **[Mateus Moreira Lima](https://www.linkedin.com/in/mateus-lima-036790184/)**, sou formado em _Análise e Desenvolvimento de Sistemas (ADS)_, ao longo do último ano, venho estudando, construindo projetos e me aprofundando nas tecnologias do ecossistema JavaScript com ênfase em front-end e back-end com Node.js.
 
